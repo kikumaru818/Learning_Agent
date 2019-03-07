@@ -4,3 +4,4 @@ my_tmp/*
 
 __pycache__/*
 
+.gitignore
